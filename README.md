@@ -4,6 +4,11 @@
   <img src="https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif" alt="Animated banner GIF" width="400px">
 </p>
 
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
+
 ## 💫About Me:
 I am a passionate data Science Student and open-source contributor, continuously exploring new technologies and innovative solutions. My interests span software development, machine learning, and creative writing.  
 
