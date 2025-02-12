@@ -9,7 +9,7 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʟᴏʟɪᴋᴀ!  
-*Digital Craftsman (Developer / Programmer)*
+*Digital Craftsman (Data Science / Programmer)*
 <br /> 
 
 I am a passionate Data Science student and open-source contributor, continuously exploring new technologies and innovative solutions. My interests span software development, machine learning, and creative writing.  
@@ -21,15 +21,12 @@ I am a passionate Data Science student and open-source contributor, continuously
 ⚡ Fun fact: When I'm not coding, I write novels, poetry, and plays.  
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lizzi_alo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alolika-bhowmik72) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alolikabhowmik72@gmail.com)  
 
-
-## 🚀 Tech Stack 
-
-## <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ </h2>  
+## <h2>🚀 Tᴇᴄʜ Sᴛᴀᴄᴋ </h2>  
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alo7lika/alo7lika/main/Skills_Animation_Dark.gif">
@@ -56,7 +53,7 @@ I am a passionate Data Science student and open-source contributor, continuously
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <table width="100%">
   <tr>
     <td width="50%">
@@ -79,7 +76,7 @@ I am a passionate Data Science student and open-source contributor, continuously
 </table>
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/alo7lika">
     <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=alo7lika&theme=dark&no-frame=false&no-bg=true&margin-w=4">
