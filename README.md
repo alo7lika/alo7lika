@@ -25,19 +25,22 @@ I am a passionate Data Science student and open-source contributor, continuously
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lizzi_alo)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alolika-bhowmik72)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alolikabhowmik72@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lizzi_alo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alolika-bhowmik72) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alolikabhowmik72@gmail.com)  
 
 ---
 
 ## 🚀 Tech Stack & Latest Blogs
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills GIF" src="./Skills_Animation_White.gif">
-</picture>
+## <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ </h2>  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Tech Stack Animation" src="./Skills_Animation_White.gif" width="600px">
+  </picture>
+</p>
 
 ### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -91,6 +94,12 @@ I am a passionate Data Science student and open-source contributor, continuously
 </p>
 
 ---
+## 📈 Contribution Graph 📈
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alo7lika&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
 
 ### 🔝 Top Contributed Repo
 <p align="center">
@@ -104,21 +113,6 @@ I am a passionate Data Science student and open-source contributor, continuously
 ### ✍️ Random Dev Quote
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
-
----
-
-### 🤝 Connect With Me  
-<p align="center">
-  <a href="mailto:alolikabhowmik72@gmail.com">
-    <img src="./gmail.png" width=50 height=50 alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/lizzi_alo">
-    <img src="./instagram.png" width=50 height=50 alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/alolika-bhowmik72/">
-    <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" />
-  </a>
 </p>
 
 ---
