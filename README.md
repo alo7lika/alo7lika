@@ -3,9 +3,6 @@
   <img src="https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif" alt="Animated Banner GIF" width="600px">
 </p>
 
-<!--Header Name-->
-<h1 align="center">Hi, I'm Alolika</h1>
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -15,7 +12,6 @@
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
-## 💫 About Me:
 I am a passionate Data Science student and open-source contributor, continuously exploring new technologies and innovative solutions. My interests span software development, machine learning, and creative writing.  
 
 🔭 Currently working on open-source projects & full-stack development.  
@@ -24,14 +20,12 @@ I am a passionate Data Science student and open-source contributor, continuously
 💬 Ask me about software development, writing, and tech communities.  
 ⚡ Fun fact: When I'm not coding, I write novels, poetry, and plays.  
 
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lizzi_alo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alolika-bhowmik72) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alolikabhowmik72@gmail.com)  
 
----
 
 ## 🚀 Tech Stack & Latest Blogs
 
@@ -71,7 +65,7 @@ I am a passionate Data Science student and open-source contributor, continuously
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/alo7lika">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=alo7lika&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=alo7lika&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
         </a>
       </p>
     </td>
@@ -79,7 +73,7 @@ I am a passionate Data Science student and open-source contributor, continuously
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/alo7lika">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alo7lika&theme=nightowl&hide_border=true" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alo7lika&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -91,7 +85,7 @@ I am a passionate Data Science student and open-source contributor, continuously
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/alo7lika">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=alo7lika&theme=nightowl&no-frame=false&no-bg=true&margin-w=4">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=alo7lika&theme=dark&no-frame=false&no-bg=true&margin-w=4">
   </a>
 </p>
 
@@ -106,7 +100,7 @@ I am a passionate Data Science student and open-source contributor, continuously
 ### 🔝 Top Contributed Repo
 <p align="center">
   <a href="https://github.com/alo7lika">
-    <img src="https://github-contributor-stats.vercel.app/api?username=alo7lika&limit=5&theme=nightowl&combine_all_yearly_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=alo7lika&limit=5&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
   </a>
 </p>
 
