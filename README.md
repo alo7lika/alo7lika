@@ -1,5 +1,7 @@
-<!--Banner-->
-![Your Banner Image](https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif)
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/71/ab/d6/71abd6011ee9653a6de9c3d50890af16.gif" alt="Animated Banner GIF" width="600px">
+</p>
 
 <!--Header Name-->
 <h1 align="center">Hi, I'm Alolika</h1>
@@ -69,7 +71,7 @@ I am a passionate Data Science student and open-source contributor, continuously
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/alo7lika">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=alo7lika&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=alo7lika&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -77,7 +79,7 @@ I am a passionate Data Science student and open-source contributor, continuously
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/alo7lika">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alo7lika&theme=gruvbox&hide_border=true" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alo7lika&theme=nightowl&hide_border=true" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -89,7 +91,7 @@ I am a passionate Data Science student and open-source contributor, continuously
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/alo7lika">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=alo7lika&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=alo7lika&theme=nightowl&no-frame=false&no-bg=true&margin-w=4">
   </a>
 </p>
 
@@ -104,7 +106,7 @@ I am a passionate Data Science student and open-source contributor, continuously
 ### 🔝 Top Contributed Repo
 <p align="center">
   <a href="https://github.com/alo7lika">
-    <img src="https://github-contributor-stats.vercel.app/api?username=alo7lika&limit=5&theme=dark&combine_all_yearly_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=alo7lika&limit=5&theme=nightowl&combine_all_yearly_contributions=true">
   </a>
 </p>
 
