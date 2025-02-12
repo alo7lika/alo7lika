@@ -27,18 +27,17 @@ I am a passionate Data Science student and open-source contributor, continuously
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alolikabhowmik72@gmail.com)  
 
 
-## 🚀 Tech Stack & Latest Blogs
+## 🚀 Tech Stack 
 
 ## <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ </h2>  
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="Tech Stack Animation" src="./Skills_Animation_White.gif" width="600px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alo7lika/alo7lika/main/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alo7lika/alo7lika/main/Skills_Animation_White.gif">
+    <img alt="Tech Stack Animation" src="https://raw.githubusercontent.com/alo7lika/alo7lika/main/Skills_Animation_White.gif" width="600px">
   </picture>
-</p>
+</div>
 
-### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
@@ -56,7 +55,6 @@ I am a passionate Data Science student and open-source contributor, continuously
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
----
 
 ## 📊 GitHub Stats:
 <table width="100%">
@@ -80,7 +78,6 @@ I am a passionate Data Science student and open-source contributor, continuously
   </tr>
 </table>
 
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -89,13 +86,10 @@ I am a passionate Data Science student and open-source contributor, continuously
   </a>
 </p>
 
----
 ## 📈 Contribution Graph 📈
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=alo7lika&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
-
----
 
 ### 🔝 Top Contributed Repo
 <p align="center">
@@ -104,14 +98,12 @@ I am a passionate Data Science student and open-source contributor, continuously
   </a>
 </p>
 
----
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
